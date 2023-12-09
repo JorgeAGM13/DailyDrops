@@ -11,6 +11,7 @@
 		CFA62D2D2B0146BF0059DA4B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA62D2C2B0146BF0059DA4B /* ContentView.swift */; };
 		CFA62D2F2B0146C30059DA4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFA62D2E2B0146C30059DA4B /* Assets.xcassets */; };
 		CFA62D322B0146C30059DA4B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFA62D312B0146C30059DA4B /* Preview Assets.xcassets */; };
+		CFB9CF3C2B182F3E0009C804 /* NotificationDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB9CF3B2B182F3E0009C804 /* NotificationDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CFA62D2C2B0146BF0059DA4B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CFA62D2E2B0146C30059DA4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CFA62D312B0146C30059DA4B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CFB9CF3B2B182F3E0009C804 /* NotificationDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CFA62D2A2B0146BF0059DA4B /* DailyDropsApp.swift */,
 				CFA62D2C2B0146BF0059DA4B /* ContentView.swift */,
+				CFB9CF3B2B182F3E0009C804 /* NotificationDelegate.swift */,
 				CFA62D2E2B0146C30059DA4B /* Assets.xcassets */,
 				CFA62D302B0146C30059DA4B /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CFA62D2D2B0146BF0059DA4B /* ContentView.swift in Sources */,
+				CFB9CF3C2B182F3E0009C804 /* NotificationDelegate.swift in Sources */,
 				CFA62D2B2B0146BF0059DA4B /* DailyDropsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
