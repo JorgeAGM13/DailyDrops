@@ -13,7 +13,7 @@ struct DailyDropsApp: App {
     let notificationDelegate = NotificationDelegate()
 
     init() {
-        // Configurar el centro de notificaciones
+        
         let center = UNUserNotificationCenter.current()
         center.delegate = notificationDelegate
     }

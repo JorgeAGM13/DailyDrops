@@ -9,7 +9,7 @@ import Foundation
 import UserNotifications
 
 class NotificationDelegate: NSObject, UNUserNotificationCenterDelegate {
-    // Aquí puedes añadir métodos para manejar las notificaciones
+    
 }
 
 extension NotificationDelegate {
