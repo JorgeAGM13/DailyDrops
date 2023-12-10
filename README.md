@@ -1,5 +1,5 @@
 # DailyDrops
-"DailyDrops" es una app diseñada para ayudar a las personas a mantenerse hidratadas a lo largo del día. Esta app permite a los usuarios establecer y seguir su objetivo diario de consumo de agua, ofreciendo recordatorios y seguimiento del progreso.
+```DailyDrops``` es una app diseñada para ayudar a las personas a mantenerse hidratadas a lo largo del día. Esta app permite a los usuarios establecer y seguir su objetivo diario de consumo de agua, ofreciendo recordatorios y seguimiento del progreso.
 
 ## Características
 ```Seguimiento del Consumo de Agua```: Permite a los usuarios registrar cuántos vasos de agua consumen al día.
@@ -8,8 +8,7 @@
 ```Interfaz de Usuario Amigable```: Una interfaz sencilla y fácil de usar para una rápida interacción diaria.
 
 ## Requisitos
-· iOS
-· Xcode
+```iOS``` y ```Xcode```
 
 ### Créditos
-· Desarrollado por ByteBosses
+Desarrollado por ```ByteBosses```
